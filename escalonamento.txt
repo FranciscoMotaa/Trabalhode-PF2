@@ -1,0 +1,43 @@
+Dia 1
+ sala 1 -> Algebra linear
+ sala 2 -> Analise matematica I
+ sala 3 -> Laboratorio de informatica e computadores
+ sala 4 -> Topicos de matematica discreta
+Dia 2
+ sala 1 -> Programacao procedimental
+ sala 2 -> Seminario de informatica
+ sala 3 -> Analise matematica II
+ sala 4 -> Elementos de fisica geral
+Dia 3
+ sala 1 -> Engenharia nas organizacoes
+ sala 2 -> Laboratorio de programacao
+ sala 3 -> Programacao funcional
+ sala 4 -> Sistemas computacionais
+Dia 4
+ sala 1 -> Compiladores
+ sala 2 -> Engenharia de software
+ sala 3 -> Métodos estatísticos
+ sala 4 -> Programacao orientada a objetos
+Dia 5
+ sala 1 -> Sistemas operativos
+ sala 2 -> Algoritmia e estruturas de dados
+ sala 3 -> Bases de dados
+ sala 4 -> Comunicacao de dados
+Dia 6
+ sala 1 -> Laboratorio de planeamento e desenvolvimento de software
+ sala 2 -> Metodos computacionais em engenharia
+ sala 3 -> Programacao multiplataforma
+ sala 4 -> Engenharia web
+Dia 7
+ sala 1 -> Gestao de projetos em engenharia
+ sala 2 -> Inteligencia artificial
+ sala 3 -> Laboratorio de aplicacoes web e bases de dados
+ sala 4 -> Redes de computadores
+Dia 8
+ sala 1 -> Sistemas de informacao
+ sala 2 -> Introducao a ciencia dos dados
+ sala 3 -> Computacao grafica
+ sala 4 -> Interacao pessoa computador
+Dia 9
+ sala 1 -> Laboratorio de projeto em engenharia informatica
+ sala 2 -> Sistemas distribuidos
