@@ -1,9 +1,8 @@
---Tarefa3
+{--}
 import Data.List (nub, sort, subsequences)
 import System.IO()
 import Control.Exception (catch, IOException)
 import Data.Char(isSpace)
-
 
 -- Função que lê as inscrições do arquivo e retorna uma lista de tuplas (aluno, UC)
 lerinscricoes :: String -> IO [(String, Int)]
